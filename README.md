@@ -74,7 +74,7 @@ Category-wise Sales Performance
 Monthly Growth Tracking
 ⚙️ Installation
 Clone Repository
-git clone https://github.com/yourusername/sales-dashboard.git
+git clone https://github.com/kamaleshjk102007-dot/Sales-Revenue-Analytics.git
 Open Project
 cd sales-dashboard
 Run Dashboard
